@@ -1,0 +1,6 @@
+{
+  "name": "SPHEREx SkyShift — NASA Near-Infrared Sky Motion Portal",
+  "description": "Interactive multi-epoch near-infrared sky viewer for NASA's SPHEREx mission. Compare sky passes across 102 spectral bands, discover moving brown dwarfs and asteroids, and analyze spectral signatures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
